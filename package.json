@@ -1,0 +1,30 @@
+{
+  "name": "eor-recipe-app-fixed",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "firebase": "^10.12.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.26.1",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stuntmannG/react_recipe2.1.git"
+  },
+  "keywords": [
+    "react",
+    "firebase",
+    "ai",
+    "recipe-app"
+  ],
+  "author": "David Motale",
+  "license": "MIT"
+}
